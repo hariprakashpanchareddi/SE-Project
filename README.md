@@ -1,1 +1,1 @@
-# SE-Project
+# Student Result Management System
